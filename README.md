@@ -1,17 +1,4 @@
-```text
-       .---------------------------.
-       |  USER: FERDOUS              |
-       |  ROLE: CSE STUDENT          |
-       |  STATUS: BUILDING...        |
-       '---------------------------'
 
-           .-""""-.
-          /  .  .  \
-         |    __    |
-         |  \____/  |
-          \        /
-           '------'
-```
 
 <h1 align="center">Hey, I'm Ferdous 👋</h1>
 
